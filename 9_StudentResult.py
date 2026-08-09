@@ -140,3 +140,23 @@ def get_grade(percentage):
 
 
 main()
+
+
+
+
+#------
+
+"""
+Aghhh this code was kinda hectic
+took an hour to complete
+now don't judge please 
+cause I am just a beginner too
+like u all guys
+and finally after lot's of efforts
+I completed it
+Still it have lot's of issue
+but I will try to sort it out later
+Now I am going to sleep
+Ba-Bye
+
+"""
